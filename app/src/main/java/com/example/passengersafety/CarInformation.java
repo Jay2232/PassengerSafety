@@ -11,7 +11,7 @@ public class CarInformation extends AppCompatActivity {
 
     public EditText editCarBrand, editModel, editLicensePlate;
     public String carBrand, carModel, carLicensePlate;
-    public Button confirmInformation, deleteButton;
+    public Button confirmInformation;
     public Intent i;
 
     @Override
